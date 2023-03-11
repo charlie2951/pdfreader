@@ -45,7 +45,7 @@ dependencies {
 ```
 ### Screenshot ###
 
-![a11](https://user-images.githubusercontent.com/90516512/224479132-9c46cb4e-57a2-4e64-b1bd-be2428a618a9.jpg)
-![a22](https://user-images.githubusercontent.com/90516512/224479135-07365b3c-b337-469e-9300-36be9793f019.jpg)
+![a11](https://user-images.githubusercontent.com/90516512/224479376-2519799e-bed9-4b23-8950-29c09459fda2.jpg)
+![a22](https://user-images.githubusercontent.com/90516512/224479371-23e5b644-4dc4-4f86-ac2b-2becad8c76d5.jpg)
 
 
