@@ -1,3 +1,3 @@
-# pdfreader
+# Android PDF Reader #
 
-PDF Reader Implementation using Kotlin in Android studio
+## An example to open pdf files from asset and display it. It is written in Kotlin. ##
